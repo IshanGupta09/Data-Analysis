@@ -1,4 +1,4 @@
-# Data-Analysis-
+# Data-Analysis
 Different types of data analytics projects : EDA, PDA, DDA, TSA and much more.....
 ## Contents
 
