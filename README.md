@@ -1,5 +1,7 @@
 # Data-Analysis
-Different types of data analytics projects : EDA, PDA, DDA, TSA and much more.....
+This repository contains various data analytics projects, including Exploratory Data Analysis (EDA), Predictive Data Analysis (PDA), Diagnostic Data Analysis (DDA), and Time Series Analysis (TSA).
+Each project is implemented in Jupyter Notebooks, demonstrating your proficiency in data analysis, machine learning algorithms, and visualization techniques.
+To enhance your resume, consider providing brief descriptions for each project, highlighting the objectives, methodologies, tools used, and key findings or outcomes. This will give potential employers a clearer understanding of your skills and experience.
 ## Contents
 
 <hr>
