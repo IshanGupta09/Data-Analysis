@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data Science Portfolio
 This repository contains various data analytics projects, including Exploratory Data Analysis (EDA), Predictive Data Analysis (PDA), Diagnostic Data Analysis (DDA), and Time Series Analysis (TSA).
 
 Each project is implemented in Jupyter Notebooks, demonstrating your proficiency in data analysis, machine learning algorithms, and visualization techniques.
